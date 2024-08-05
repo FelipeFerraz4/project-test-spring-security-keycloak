@@ -1,0 +1,19 @@
+.visual_identity {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-decoration: none;
+}
+
+.visual_identity_title {
+    margin: 0px;
+    color: black;
+    font-weight: bold;
+}
+
+.visual_identity_subtitle {
+    margin: 0px;
+    color: black;
+}
